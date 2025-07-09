@@ -1,4 +1,4 @@
-#took input as float number so that we can perform operation both on integer and float number
+#took input as float number so that we can perform operation on both integer and floating point number
 
 number1 = float(input("Enter 1st number:"))
 number2 = float(input("Enter 2nd number:"))
