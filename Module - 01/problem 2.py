@@ -1,3 +1,5 @@
+#took input as float number so that we can perform operation both on integer and float number
+
 number1 = float(input("Enter 1st number:"))
 number2 = float(input("Enter 2nd number:"))
 operator = input("Enter an operator(+, -, *, /)")
