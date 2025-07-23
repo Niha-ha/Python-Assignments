@@ -4,12 +4,12 @@ Output:
 Animals make different sounds.           # From Animal class
 Dog barks!                               # From Dog Class'''
 
-# Base class--
+# Base class
 class Animal:
    def sound(self):
       print("Animals make different sounds")
 
-# Derived class--
+# Derived class
 class Dog(Animal):
          def sound(self):
             super().sound()           # Calls the sound method from Animal
