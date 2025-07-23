@@ -7,7 +7,7 @@ Dog barks!                               # From Dog Class'''
 # Base class
 class Animal:
    def sound(self):
-      print("Animals make different sounds")
+      print("Animals make different sounds.")
 
 # Derived class
 class Dog(Animal):
